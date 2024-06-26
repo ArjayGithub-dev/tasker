@@ -1,8 +1,7 @@
-# React + Vite
+# Read Me
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This represents my third personal project as a front-end developer utilizing React JS and Tailwind CSS.
+I discovered a free template on Figma and meticulously developed it from scratch.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+UI/UX Designer: Muhammad Umair (https://www.figma.com/community/file/1281312546529722471/project-managemt-website-design-ui-ux)
+Developer: Yours truly
