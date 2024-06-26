@@ -9,9 +9,8 @@ const TrustedClients = () => {
           Trusted Clients
         </h1>
         <p className="font-poppins font-regular text-gray mb-10">
-          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
-          sed diam nonumy eirmod tempor invidunt ut labore et.
-        </p>
+          Our trusted clients rely on Tasker to manage projects efficiently. 
+          Join them and transform your work experience.</p>
       </div>
       <img src={trusted_clients_logo} alt="Trusted Clients Logo" className="mx-auto" />
     </section>

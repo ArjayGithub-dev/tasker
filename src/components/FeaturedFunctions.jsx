@@ -17,7 +17,7 @@ const FeaturedFunctions = () => {
             </h1>
           </div>
           <p className={`${styles.paragraph} font-poppins font-regular text-gray max-w-[470px] mb-10`}>
-            Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.
+          Maximize your productivity and improve project management with Tasker’s comprehensive tools and features tailored to your needs.
           </p>
 
           {/* Input box and button */}
@@ -38,7 +38,7 @@ const FeaturedFunctions = () => {
             </h1>
           </div>
           <p className={`${styles.paragraph} font-poppins font-regular text-gray max-w-[470px] mb-10`}>
-          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.
+          Maximize your productivity and improve project management with Tasker’s comprehensive tools and features tailored to your needs.
           </p>
 
           {/* Input box and button */}

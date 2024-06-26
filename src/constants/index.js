@@ -75,13 +75,13 @@ export const accordingData = [
 export const topfeatures1 = [
   {
     id: "feature1-1",
-    content: "Lorem ipsum dolor sit amet, sconsetetur sadipscing elitr, sed diam nonumy d cs eirmod dummy text here.",
+    content: "Easily organize, prioritize, and track all your tasks in one place, ensuring that nothing falls through the cracks.",
     name: "Tasks",
     img: tasks,
   },
   {
     id: "feature2-2",
-    content: "Lorem ipsum dolor sit amet, sconsetetur sadipscing elitr, sed diam nonumy d cs eirmod dummy text here.",
+    content: "Efficiently allocate and manage time slots for different tasks and team members to optimize productivity and meet deadlines.",
     name: "Time Slots",
     img: timeslots,
   },
@@ -90,13 +90,13 @@ export const topfeatures1 = [
 export const topfeatures2 = [
     {
       id: "feature3-1",
-      content: "Lorem ipsum dolor sit amet, sconsetetur sadipscing elitr, sed diam nonumy d cs eirmod dummy text here.",
+      content: "Our seamless onboarding process helps new team members get up to speed quickly, ensuring a smooth transition and continuous productivity.",
       name: "Onboarding",
       img: onboarding,
     },
     {
       id: "feature4-2",
-      content: "Lorem ipsum dolor sit amet, sconsetetur sadipscing elitr, sed diam nonumy d cs eirmod dummy text here.",
+      content: "Enhance team collaboration with real-time updates, shared workspaces, and efficient communication tools, no matter where your team members are located.",
       name: "Collaboration",
       img: collaboration,
     },

@@ -13,7 +13,7 @@ const Footer = () => (
           className="w-[100px] h-[23px] object-contain"
         />
         <p className={`${styles.paragraph} mt-4 max-w-[312px]`}>
-        Lorem ipsum dolor sit amet, sconsetetur sadipscing elitr, sed diam nonumy d cs eirmod dummy text here.
+        Tasker empowers teams to work smarter, not harder. Discover how our solutions can transform your workflow and drive success.
         </p>
         <Socials/>  
       </div>

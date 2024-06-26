@@ -8,7 +8,7 @@ const Hero = () => {
         <div className="flex flex-row justify-between items-center w-full mb-5">
           <h1 className="flex-1 font-poppins font-bold ss:text-[48px] text-[28px] text-black">
             Tasker brings all <br className="sm:block hidden" />
-            your tasks Teams & <br className="sm:block hidden" />
+            your tasks, teams, & <br className="sm:block hidden" />
             tools together <br className="sm:block hidden" />
           </h1>
         </div>

@@ -13,7 +13,8 @@ const TopFeatures = () => {
           </h1>
         </div>
         <p className={`${styles.paragraph} font-poppins font-regular text-gray max-w-[470px] mb-10`}>
-          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.
+        Explore our top features designed to enhance productivity and simplify task management, 
+        ensuring that your projects are completed on time and within budget.
         </p>
 
         {/* Input box and button */}
