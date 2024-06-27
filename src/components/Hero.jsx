@@ -21,7 +21,7 @@ const Hero = () => {
           <input
             type="text"
             placeholder="Email"
-            className="w-full sm:w-1/2 px-6 py-3 border border-gray rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-600"
+            className="w-full sm:w-1/2 px-6 py-3 border border-gray rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-600 bg-white"
           />
           <button className="w-full sm:w-auto px-6 py-3 bg-blue text-white rounded-lg bg-blue focus:outline-none focus:ring-2 focus:ring-blue-600">
             Sign Up Its Free

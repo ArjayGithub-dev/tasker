@@ -13,7 +13,7 @@ const Questions = () => {
         </div>
 
         {faqs.map((faq, index) => (
-          <div key={index} className="collapse collapse-arrow bg-base-200 mb-4">
+          <div key={index} className="collapse collapse-arrow bg-[#E7E7E7] mb-4">
             <input type="radio" name="my-accordion-2" defaultChecked={index === 0} />
             <div className="font-poppins font-bold text-[18px] collapse-title">{faq.question}</div>
             <div className="font-poppins font-regular text-[16px] text-gray collapse-content">
