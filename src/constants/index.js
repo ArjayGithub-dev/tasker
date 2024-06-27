@@ -121,16 +121,20 @@ export const testimonials = [
 
 export const faqs = [
   {
-    question: "What is Lorem Ipsum?",
-    answer: "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+    question: "Q1. What is Tasker?",
+    answer: "Tasker is a comprehensive project management tool designed to bring all your tasks, teams, and tools together. It facilitates seamless collaboration and enhances productivity and efficiency, even when team members are working from different locations.",
   },
   {
-    question: "Why do we use it?",
-    answer: "It is a long established fact that a reader will be distracted by the readable content...",
+    question: "Q2. How can Tasker improve my team's productivity?",
+    answer: "Tasker improves productivity by providing a centralized platform for managing tasks, tracking progress, and facilitating communication. It offers features like task assignments, deadlines, real-time updates, and integrations with various tools to ensure everyone is on the same page and projects are completed on time.",
   },
   {
-    question: "Where does it come from?",
-    answer: "Contrary to popular belief, Lorem Ipsum is not simply random text...",
+    question: "Q3. Is Tasker suitable for remote teams?",
+    answer: "Absolutely! Tasker is built with remote teams in mind. Its robust collaboration tools, real-time updates, and easy accessibility make it perfect for teams working from different locations. It ensures that distance doesn't hinder productivity and team coordination.",
+  },
+  {
+    question: "Q4. Can Tasker integrate with other tools?",
+    answer: "Yes, Tasker integrates with a wide range of tools such as Slack, Google Drive, and more. This allows you to streamline your workflow by connecting Tasker with the tools your team already uses, enhancing productivity and efficiency.",
   },
 ];
 
