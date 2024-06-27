@@ -9,7 +9,7 @@ const FeaturedFunctions = () => {
           <img src={illustration3} alt="Illustration 3" className="w-[100%] h-[100%]" />
         </div>
 
-        <div className={`flex-1 ${styles.flexStart} flex-col xl:px-0 sm:px-16 px-6 mb-10`}>
+        <div className={`flex-1 ${styles.flexStart} flex-col xl:px-0 sm:px-16 px-6 mb-10 `}>
           <p className="font-poppins font-regular text-blue mb-5">Perform All Your Tasks</p>
           <div className="flex flex-row justify-between items-center w-full mb-5">
             <h1 className="font-poppins font-bold ss:text-[36px] text-[26px] text-black">
@@ -29,7 +29,7 @@ const FeaturedFunctions = () => {
         </div>
       </section>
 
-      <section id="home" className={`flex md:flex-row flex-col ${styles.paddingY}`}>
+      <section id="home" className={`flex md:flex-row flex-col ${styles.paddingY} flex-col-reverse`}>
         <div className={`flex-1 ${styles.flexStart} flex-col xl:px-0 sm:px-16 px-6 mb-10`}>
           <p className="font-poppins font-regular text-blue mb-5">Learn about Features </p>
           <div className="flex flex-row justify-between items-center w-full mb-5">

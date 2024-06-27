@@ -43,7 +43,7 @@ const Navbar = () => {
 
       {/* Dropdown Menu for smaller screens */}
       {isMenuOpen && (
-        <div className="absolute top-16 right-0 w-full bg-white shadow-lg md:hidden">
+        <div className="absolute top-16 right-0 justify-center w-full bg-white shadow-lg md:hidden">
           <ul className="flex flex-col items-center space-y-4 py-4">
             {navLinks.map((link) => (
               <li key={link.id} className="font-poppins font-regular text-gray cursor-pointer text-[14px] hover:text-blue">
